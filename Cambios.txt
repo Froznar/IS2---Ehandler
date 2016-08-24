@@ -1,0 +1,9 @@
+1. Contraseña con s.
+2. Una flecha que apunte a la izquierda para retroceder de página (capaz el usuario se equivoca).
+3. "Periodic" en vez de "Period".
+4. Políticas de privacidad y de uso pueden estar subrayadas para indicar que es un enlace y el usuario pueda leerlas.
+5. Creo que si un concepto puede tener más de un ícono puede quedar confuso, pero no sé.
+6. Puede haber una opción si el usuario no quiere poner un ícono.
+7. Capaz una opción para remover los cambios (o como el profe dice, inhabilitar)
+8. Algunas palabras en Inglés y otras en Español no se ve bien.
+9. Capaz pueda haber una opción para cambiar de dólares a soles/euros, etc.
